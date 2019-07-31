@@ -1,0 +1,20 @@
+first,last,frequency,prob
+a a,a,21,1.0
+a amp,a,15,0.46875
+a amp,e,4,0.125
+a amp,f,8,0.25
+a amp,w,5,0.15625
+a and,i,9,0.42857142857142855
+a and,it,4,0.19047619047619047
+a and,a,8,0.38095238095238093
+a anote,do,7,1.0
+a apple,store,5,1.0
+a aremindme,feedback,7,1.0
+a baby,and,4,1.0
+a back,pocket,4,0.3333333333333333
+a back,up,8,0.6666666666666666
+a backlit,keyboard,7,0.4666666666666667
+a backlit,one,8,0.5333333333333333
+a backup,and,6,0.6
+a backup,or,4,0.4
+a bad,name,4,0.034782608695652174

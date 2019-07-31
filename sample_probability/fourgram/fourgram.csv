@@ -1,0 +1,20 @@
+first,last,frequency,prob
+a a a,a,13,1.0
+a amp a,amp,11,1.0
+a amp e,a,4,1.0
+a amp f,a,6,1.0
+a amp w,b,5,1.0
+a anote do,not,7,1.0
+a aremindme feedback,to,7,1.0
+a backup and,restore,4,1.0
+a bad idea,to,12,1.0
+a bad thing,i,5,1.0
+a bad way,to,4,1.0
+a better chance,of,4,1.0
+a better job,of,4,0.5
+a better job,than,4,0.5
+a better place,now,4,1.0
+a better way,to,10,1.0
+a big deal,it,5,0.125
+a big deal,and,7,0.175
+a big deal,for,8,0.2
